@@ -12,3 +12,6 @@ rethinkDB
 elixir
 rust
 hanami
+rom
+dry
+atom
